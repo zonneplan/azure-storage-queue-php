@@ -24,5 +24,7 @@
         "psr-4": {
             "MicrosoftAzure\\Storage\\Queue\\": "src/Queue"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
