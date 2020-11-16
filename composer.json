@@ -4,6 +4,12 @@
     "description": "This project provides a set of PHP client libraries that make it easy to access Microsoft Azure Storage Queue APIs.",
     "keywords": [ "php", "azure", "storage", "sdk", "queue" ],
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:zonneplan/azure-storage-common-php.git"
+        }
+    ],
     "authors": [
         {
             "name": "Azure Storage PHP Client Library",
